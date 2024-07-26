@@ -1,4 +1,4 @@
-[![MasterHead](https://camo.githubusercontent.com/c9dd8184acce8b199a8d717cdb2c10dd89e850128b86279978b95451e18c6da7/68747470733a2f2f7172616e676572732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032312f30392f42616e6e65722d496e74726f64756374696f6e2d746f2d33442d416e696d6174696f6e2e706e67)](https://Tosifaly.io)
+[![MasterHead](https://swaadhyayan.com/static/media/AboutUs-Animated-banner-1.b6c10258.gif)](https://Tosifaly.io)
 
 <h1 align="center">Hi 👋, I'm Tosifaly</h1>
 <h3 align="center">A passionate software developer from India</h3>
