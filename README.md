@@ -9,17 +9,17 @@
   <img src="https://komarev.com/ghpvc/?username=tosifaly&label=Profile%20views&color=0e75b6&style=flat" alt="tosifaly" /> 
 </p>
 
-- 🔭 I’m currently working on **Java**
+- 🔭 I’m currently working on **.NET Core**
 
-- 🌱 I’m currently learning **Advanced Java**
+- 🌱 I’m currently learning **Problem Solving Skills**
 
-- 👯 I’m looking to collaborate on **Web Applications**
+- 👯 I’m looking to collaborate on **Software Applications Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **.NET**
 
 - 📫 How to reach me **tosifalisaiyed2410@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **I think I am funny - I can make you laugh **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
