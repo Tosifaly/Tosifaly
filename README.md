@@ -9,7 +9,7 @@
   <img src="https://komarev.com/ghpvc/?username=tosifaly&label=Profile%20views&color=0e75b6&style=flat" alt="tosifaly" /> 
 </p>
 
-- 🔭 I’m currently working on **.IaC**
+- 🔭 I’m currently working on **Infrastructure as code - Automation CICD Corporate DevOps Pipeline Project **
 
 - 🌱 I’m currently learning **Problem Solving Skills**
 
